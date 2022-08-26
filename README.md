@@ -1,7 +1,7 @@
 # Face recognition and identification OpenCV in Python.
 ---
 
-This is a python 3.X face and eye recognition app using the OpenCV library including a trainig model.
+This is a python 3.X face and eye recognition app using the OpenCV library including a training  model.
 
 ### Dependencies
 ---
